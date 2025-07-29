@@ -1,0 +1,7 @@
+streamlit
+langchain
+openai
+chromadb
+huggingface-hub
+sentence-transformers
+tiktoken
