@@ -1,8 +1,0 @@
-streamlit
-langchain
-langchain-community
-langchain-openai
-faiss-cpu
-huggingface-hub
-sentence-transformers
-tiktoken
