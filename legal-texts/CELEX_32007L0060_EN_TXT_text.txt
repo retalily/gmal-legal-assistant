@@ -1,0 +1,566 @@
+6.11.2007            EN                           Official Journal of the European Union                                        L 288/27
+
+
+
+
+                                                             DIRECTIVES
+
+
+                    DIRECTIVE 2007/60/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+                                                          of 23 October 2007
+                                         on the assessment and management of flood risks
+                                                         (Text with EEA relevance)
+
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE                                 coordinated throughout a river basin if they are to be
+EUROPEAN UNION,                                                                effective.
+
+
+
+Having regard to the Treaty establishing the European                   (4)    Directive 2000/60/EC of the European Parliament and of
+Community, and in particular Article 175(1) thereof,                           the Council of 23 October 2000 establishing a
+                                                                               framework for Community action in the field of water
+                                                                               policy (3) requires river basin management plans to be
+                                                                               developed for each river basin district in order to
+Having regard to the proposal from the Commission,                             achieve good ecological and chemical status, and it will
+                                                                               contribute to mitigating the effects of floods. However,
+                                                                               reducing the risk of floods is not one of the principal
+                                                                               objectives of that Directive, nor does it take into account
+Having regard to the Opinion of the European Economic and                      the future changes in the risk of flooding as a result of
+Social Committee (1),                                                          climate change.
+
+
+Acting in accordance with the procedure laid down in Article            (5)    The Commission Communication of 12 July 2004 to the
+251 of the Treaty (2),                                                         European Parliament, the Council, the European
+                                                                               Economic and Social Committee and the Committee of
+                                                                               the Regions ‘Flood risk management — Flood
+                                                                               prevention, protection and mitigation’ sets out its
+Whereas:                                                                       analysis and approach to managing flood risks at
+                                                                               Community level, and states that concerted and coor-
+                                                                               dinated action at Community level would bring consid-
+(1)    Floods have the potential to cause fatalities, displacement             erable added value and improve the overall level of flood
+       of people and damage to the environment, to severely                    protection.
+       compromise economic development and to undermine
+       the economic activities of the Community.
+                                                                        (6)    Effective flood prevention and mitigation requires, in
+                                                                               addition to coordination between Member States, coop-
+                                                                               eration with third countries. This is in line with Directive
+(2)    Floods are natural phenomena which cannot be                            2000/60/EC and international principles of flood risk
+       prevented. However, some human activities (such as                      management as developed notably under the United
+       increasing human settlements and economic assets in                     Nations Convention on the protection and use of trans-
+       floodplains and the reduction of the natural water                      boundary water courses and international lakes, approved
+       retention by land use) and climate change contribute to                 by Council Decision 95/308/EC (4), and any succeeding
+       an increase in the likelihood and adverse impacts of flood              agreements on its application.
+       events.
+
+                                                                        (7)    Council Decision 2001/792/EC, Euratom of 23 October
+(3)    It is feasible and desirable to reduce the risk of adverse              2001 establishing a Community mechanism to facilitate
+       consequences, especially for human health and life, the                 reinforced cooperation in civil protection assistance inter-
+       environment, cultural heritage, economic activity and                   ventions (5) mobilises support and assistance from
+       infrastructure associated with floods. However, measures                Member States in the event of major emergencies,
+       to reduce these risks should, as far as possible, be                    including floods. Civil protection can provide adequate
+                                                                               response to affected populations and improve prepa-
+                                                                               redness and resilience.
+(1) OJ C 195, 18.8.2006, p. 37.
+(2) Opinion of the European Parliament of 13 June 2006 (OJ C 300 E,
+    9.12.2006, p. 123). Council Common Position of 23 November          (3) OJ L 327, 22.12.2000, p. 1. Directive as amended by Decision
+    2006 (OJ C 311 E, 19.12.2006, p. 10) and Position of                    No 2455/2001/EC (OJ L 331, 15.12.2001, p. 1).
+    the European Parliament of 25 April 2007. Council Decision of       (4) OJ L 186, 5.8.1995, p. 42.
+    18 September 2007.                                                  (5) OJ L 297, 15.11.2001, p. 7.
+
+L 288/28              EN                         Official Journal of the European Union                                       6.11.2007
+
+
+(8)    Under Council Regulation (EC) No 2012/2002 of 11                       the particular characteristics of the areas they cover and
+       November 2002 establishing the European Union Soli-                    provide for tailored solutions according to the needs and
+       darity Fund (1) it is possible to grant rapid financial                priorities of those areas, whilst ensuring relevant coordi-
+       assistance in the event of a major disaster to help the                nation within river basin districts and promoting the
+       people, natural zones, regions and countries concerned                 achievement of environmental objectives laid down in
+       to return to conditions that are as normal as possible.                Community legislation. In particular, Member States
+       However the Fund may only intervene for emergency                      should refrain from taking measures or engaging in
+       operations, and not for the phases preceding an                        actions which significantly increase the risk of flooding
+       emergency.                                                             in other Member States, unless these measures have been
+                                                                              coordinated and an agreed solution has been found
+                                                                              among the Member States concerned.
+
+
+(9)    In developing policies referring to water and land uses
+       Member States and the Community should consider the
+       potential impacts that such policies might have on flood        (14)   Flood risk management plans should focus on
+       risks and the management of flood risks.                               prevention, protection and preparedness. With a view
+                                                                              to giving rivers more space, they should consider
+                                                                              where possible the maintenance and/or restoration of
+                                                                              floodplains, as well as measures to prevent and reduce
+                                                                              damage to human health, the environment, cultural
+(10)   Throughout the Community different types of floods                     heritage and economic activity. The elements of flood
+       occur, such as river floods, flash floods, urban floods                risk management plans should be periodically reviewed
+       and floods from the sea in coastal areas. The damage                   and if necessary updated, taking into account the likely
+       caused by flood events may also vary across the                        impacts of climate change on the occurrence of floods.
+       countries and regions of the Community. Hence,
+       objectives regarding the management of flood risks
+       should be determined by the Member States themselves
+       and should be based on local and regional circumstances.
+                                                                       (15)   The solidarity principle is very important in the context
+                                                                              of flood risk management. In the light of it Member
+                                                                              States should be encouraged to seek a fair sharing of
+                                                                              responsibilities, when measures are jointly decided for
+(11)   Flood risks in certain areas within the Community could                the common benefit, as regards flood risk management
+       be considered not to be significant, for example in thinly             along water courses.
+       populated or unpopulated areas or in areas with limited
+       economic assets or ecological value. In each river basin
+       district or unit of management the flood risks and need
+       for further action — such as the evaluation of flood
+                                                                       (16)   To prevent duplication of work, Member States should
+       mitigation potential — should be assessed.
+                                                                              be entitled to use existing preliminary flood risk
+                                                                              assessments, flood hazard and risk maps and flood risk
+                                                                              management plans for the purposes of achieving the
+                                                                              objectives and satisfying the requirements of this
+(12)   In order to have available an effective tool for infor-                Directive.
+       mation, as well as a valuable basis for priority setting
+       and further technical, financial and political decisions
+       regarding flood risk management, it is necessary to
+       provide for the establishing of flood hazard maps and           (17)   Development of river basin management plans under
+       flood risk maps showing the potential adverse conse-                   Directive 2000/60/EC and of flood risk management
+       quences associated with different flood scenarios,                     plans under this Directive are elements of integrated
+       including information on potential sources of environ-                 river basin management. The two processes should
+       mental pollution as a consequence of floods. In this                   therefore use the mutual potential for common
+       context, Member States should assess activities that                   synergies and benefits, having regard to the environ-
+       have the effect of increasing flood risks.                             mental objectives of Directive 2000/60/EC, ensuring effi-
+                                                                              ciency and wise use of resources while recognising that
+                                                                              the competent authorities and management units might
+                                                                              be different under this Directive and Directive
+                                                                              2000/60/EC.
+(13)   With a view to avoiding and reducing the adverse
+       impacts of floods in the area concerned it is appropriate
+       to provide for flood risk management plans. The causes
+       and consequences of flood events vary across the
+       countries and regions of the Community. Flood risk              (18)   Member States should base their assessments, maps and
+       management plans should therefore take into account                    plans on appropriate ‘best practice’ and ‘best available
+                                                                              technologies’ not entailing excessive costs in the field
+(1) OJ L 311, 14.11.2002, p. 3.                                               of flood risk management.
+
+6.11.2007             EN                            Official Journal of the European Union                                            L 288/29
+
+
+(19)   In cases of multi-purpose use of bodies of water for                      and regional levels, in particular as regards organisation
+       different forms of sustainable human activities (e.g.                     and responsibility of authorities.
+       flood risk management, ecology, inland navigation or
+       hydropower) and the impacts of such use on the
+       bodies of water, Directive 2000/60/EC provides for a               (25)   In accordance with point 34 of the Interinstitutional
+       clear and transparent process for addressing such uses                    Agreement on better law-making (2), Member States are
+       and impacts, including possible exemptions from the                       encouraged to draw up, for themselves and in the interest
+       objectives of ‘good status’ or of ‘non-deterioration’ in                  of the Community, their own tables illustrating, as far as
+       Article 4 thereof. Directive 2000/60/EC provides for                      possible, the correlation between this Directive and the
+       cost recovery in Article 9.                                               transposition measures, and to make them public,
+
+
+                                                                          HAVE ADOPTED THIS DIRECTIVE:
+
+(20)   The measures necessary for the implementation of this
+       Directive should be adopted in accordance with Council                                           CHAPTER I
+       Decision 1999/468/EC of 28 June 1999 laying down the
+       procedures for the exercise of implementing powers                                       GENERAL PROVISIONS
+       conferred on the Commission (1).
+                                                                                                         Article 1
+                                                                          The purpose of this Directive is to establish a framework for the
+                                                                          assessment and management of flood risks, aiming at the
+(21)   In particular, the Commission should be empowered to               reduction of the adverse consequences for human health, the
+       adapt the Annex to scientific and technical progress.              environment, cultural heritage and economic activity associated
+       Since those measures are of general scope and are                  with floods in the Community.
+       designed to amend non-essential elements of this
+       Directive, they must be adopted in accordance with the
+                                                                                                         Article 2
+       regulatory procedure with scrutiny provided for in Article
+       5a of Decision 1999/468/EC.                                        For the purpose of this Directive, in addition to the definitions
+                                                                          of ‘river’, ‘river basin’, ‘sub-basin’ and ‘river basin district’ as set
+                                                                          out in Article 2 of Directive 2000/60/EC, the following defi-
+                                                                          nitions shall apply:
+(22)   This Directive respects the fundamental rights and
+       observes the principles recognised in particular by the
+       Charter of Fundamental Rights of the European Union.               1. ‘flood’ means the temporary covering by water of land not
+       In particular, it seeks to promote the integration into               normally covered by water. This shall include floods from
+       Community policies of a high level of environmental                   rivers, mountain torrents, Mediterranean ephemeral water
+       protection in accordance with the principle of sustainable            courses, and floods from the sea in coastal areas, and may
+       development as laid down in Article 37 of the Charter of              exclude floods from sewerage systems;
+       Fundamental Rights of the European Union.
+                                                                          2. ‘flood risk’ means the combination of the probability of a
+                                                                             flood event and of the potential adverse consequences for
+                                                                             human health, the environment, cultural heritage and
+(23)   Since the objective of this Directive, namely the estab-              economic activity associated with a flood event.
+       lishment of a framework for measures to reduce the risks
+       of flood damage, cannot be sufficiently achieved by the
+       Member States and can by reason of scale and effects of                                           Article 3
+       actions be better achieved at Community level, the
+                                                                          1.     For the purposes of this Directive Member States shall
+       Community may adopt measures, in accordance with
+                                                                          make use of the arrangements made under Article 3(1), (2),
+       the principle of subsidiarity as set out in Article 5 of
+                                                                          (3), (5) and (6) of Directive 2000/60/EC.
+       the Treaty. In accordance with the principle of propor-
+       tionality, as set out in that Article, this Directive does not
+       go beyond what is necessary in order to achieve that
+                                                                          2.  However, for the implementation of this Directive,
+       objective.
+                                                                          Member States may:
+
+
+                                                                          (a) appoint competent authorities different from those iden-
+(24)   In accordance with the principles of proportionality and               tified pursuant to Article 3(2) of Directive 2000/60/EC;
+       subsidiarity and the Protocol on the application of the
+       principles of subsidiarity and proportionality attached to
+       the Treaty, and in view of existing capabilities of Member         (b) identify certain coastal areas or individual river basins and
+       States, considerable flexibility should be left to the local           assign them to a unit of management different from those
+                                                                              assigned pursuant to Article 3(1) of Directive 2000/60/EC.
+(1) OJ L 184, 17.7.1999, p. 23. Decision as amended by Decision
+    2006/512/EC (OJ L 200, 22.7.2006, p. 11).                             (2) OJ C 321, 31.12.2003, p. 1.
+
+L 288/30             EN                           Official Journal of the European Union                                         6.11.2007
+
+
+In these cases, Member States shall, by 26 May 2010, commu-                 natural retention areas, the effectiveness of existing man-
+nicate to the Commission the information referred to in Annex               made flood defence infrastructures, the position of
+I to Directive 2000/60/EC. For this purpose, any reference to               populated areas, areas of economic activity and long-term
+competent authorities and river basin districts shall be taken as           developments including impacts of climate change on the
+references to the competent authorities and unit of management              occurrence of floods.
+referred to in this Article. Member States shall inform the
+Commission of any changes in the information provided
+pursuant to this paragraph within three months of the change            3.    In the case of international river basin districts, or units of
+coming into effect.                                                     management referred to in Article 3(2)(b) which are shared with
+                                                                        other Member States, Member States shall ensure that exchange
+                                                                        of relevant information takes place between the competent
+                                                                        authorities concerned.
+                           CHAPTER II
+
+           PRELIMINARY FLOOD RISK ASSESSMENT
+
+                             Article 4                                  4.    Member States shall complete the preliminary flood risk
+                                                                        assessment by 22 December 2011.
+1.   Member States shall, for each river basin district, or unit
+of management referred to in Article 3(2)(b), or the portion of
+an international river basin district lying within their territory,                                   Article 5
+undertake a preliminary flood risk assessment in accordance
+with paragraph 2 of this Article.                                       1.    On the basis of a preliminary flood risk assessment as
+                                                                        referred to in Article 4, Member States shall, for each river
+                                                                        basin district, or unit of management referred to in Article
+                                                                        3(2)(b), or portion of an international river basin district lying
+2.    Based on available or readily derivable information, such         within their territory, identify those areas for which they
+as records and studies on long term developments, in particular         conclude that potential significant flood risks exist or might
+impacts of climate change on the occurrence of floods, a preli-         be considered likely to occur.
+minary flood risk assessment shall be undertaken to provide an
+assessment of potential risks. The assessment shall include at
+least the following:                                                    2.    The identification under paragraph 1 of areas belonging to
+                                                                        an international river basin district, or to a unit of management
+                                                                        referred to in Article 3(2)(b) shared with another Member State,
+(a) maps of the river basin district at the appropriate scale           shall be coordinated between the Member States concerned.
+    including the borders of the river basins, sub-basins and,
+    where existing, coastal areas, showing topography and
+    land use;                                                                                       CHAPTER III
+
+                                                                              FLOOD HAZARD MAPS AND FLOOD RISK MAPS
+
+                                                                                                      Article 6
+(b) a description of the floods which have occurred in the past
+    and which had significant adverse impacts on human health,          1.    Member States shall, at the level of the river basin district,
+    the environment, cultural heritage and economic activity            or unit of management referred to in Article 3(2)(b), prepare
+    and for which the likelihood of similar future events is            flood hazard maps and flood risk maps, at the most appropriate
+    still relevant, including their flood extent and conveyance         scale for the areas identified under Article 5(1).
+    routes and an assessment of the adverse impacts they have
+    entailed;
+                                                                        2.    The preparation of flood hazard maps and flood risk maps
+                                                                        for areas identified under Article 5 which are shared with other
+                                                                        Member States shall be subject to prior exchange of information
+(c) a description of the significant floods which have occurred         between the Member States concerned.
+    in the past, where significant adverse consequences of
+    similar future events might be envisaged;
+                                                                        3.   Flood hazard maps shall cover the geographical areas
+                                                                        which could be flooded according to the following scenarios:
+    and, depending on the specific needs of Member States, it
+    shall include:
+                                                                        (a) floods with a low probability, or extreme event scenarios;
+
+(d) an assessment of the potential adverse consequences of
+    future floods for human health, the environment, cultural           (b) floods with a medium probability (likely return period
+    heritage and economic activity, taking into account as far as           ≥ 100 years);
+    possible issues such as the topography, the position of
+    watercourses and their general hydrological and geo-
+    morphological characteristics, including floodplains as             (c) floods with a high probability, where appropriate.
+
+6.11.2007               EN                         Official Journal of the European Union                                       L 288/31
+
+
+4.   For each scenario referred to in paragraph 3 the following          at the level of the river basin district, or unit of management
+elements shall be shown:                                                 referred to in Article 3(2)(b), for the areas identified under
+                                                                         Article 5(1) and the areas covered by Article 13(1)(b) in
+                                                                         accordance with paragraphs 2 and 3 of this Article.
+(a) the flood extent;
+
+
+(b) water depths or water level, as appropriate;                         2.    Member States shall establish appropriate objectives for
+                                                                         the management of flood risks for the areas identified under
+                                                                         Article 5(1) and the areas covered by Article 13(1)(b), focusing
+(c) where appropriate, the flow velocity or the relevant water           on the reduction of potential adverse consequences of flooding
+    flow.                                                                for human health, the environment, cultural heritage and
+                                                                         economic activity, and, if considered appropriate, on non-
+                                                                         structural initiatives and/or on the reduction of the likelihood
+5.   Flood risk maps shall show the potential adverse conse-             of flooding.
+quences associated with flood scenarios referred to in paragraph
+3 and expressed in terms of the following:
+                                                                         3.    Flood risk management plans shall include measures for
+(a) the indicative number of inhabitants potentially affected;           achieving the objectives established in accordance with
+                                                                         paragraph 2 and shall include the components set out in Part
+                                                                         A of the Annex.
+(b) type of economic activity of the area potentially affected;
+
+
+(c) installations as referred to in Annex I to Council Directive         Flood risk management plans shall take into account relevant
+    96/61/EC of 24 September 1996 concerning integrated                  aspects such as costs and benefits, flood extent and flood
+    pollution prevention and control (1) which might cause acci-         conveyance routes and areas which have the potential to
+    dental pollution in case of flooding and potentially affected        retain flood water, such as natural floodplains, the environ-
+    protected areas identified in Annex IV(1)(i), (iii) and (v) to       mental objectives of Article 4 of Directive 2000/60/EC, soil
+    Directive 2000/60/EC;                                                and water management, spatial planning, land use, nature
+                                                                         conservation, navigation and port infrastructure.
+
+(d) other information which the Member State considers useful
+    such as the indication of areas where floods with a high
+                                                                         Flood risk management plans shall address all aspects of flood
+    content of transported sediments and debris floods can
+                                                                         risk management focusing on prevention, protection, prepa-
+    occur and information on other significant sources of
+                                                                         redness, including flood forecasts and early warning systems
+    pollution.
+                                                                         and taking into account the characteristics of the particular
+                                                                         river basin or sub-basin. Flood risk management plans may
+                                                                         also include the promotion of sustainable land use practices,
+6.   Member States may decide that, for coastal areas where an
+                                                                         improvement of water retention as well as the controlled
+adequate level of protection is in place, the preparation of flood
+                                                                         flooding of certain areas in the case of a flood event.
+hazard maps shall be limited to the scenario referred to in
+paragraph 3(a).
+
+                                                                         4.    In the interests of solidarity, flood risk management plans
+7.    Member States may decide that, for areas where flooding            established in one Member State shall not include measures
+is from groundwater sources, the preparation of flood hazard             which, by their extent and impact, significantly increase flood
+maps shall be limited to the scenario referred to in para-               risks upstream or downstream of other countries in the same
+graph 3(a).                                                              river basin or sub-basin, unless these measures have been coor-
+                                                                         dinated and an agreed solution has been found among the
+                                                                         Member States concerned in the framework of Article 8.
+8.    Member States shall ensure that the flood hazard maps
+and flood risk maps are completed by 22 December 2013.
+
+                                                                         5.   Member States shall ensure that flood risk management
+                             CHAPTER IV                                  plans are completed and published by 22 December 2015.
+              FLOOD RISK MANAGEMENT PLANS
+                              Article 7
+                                                                                                     Article 8
+1.    On the basis of the maps referred to in Article 6, Member
+States shall establish flood risk management plans coordinated           1.   For river basin districts, or units of management referred
+                                                                         to in Article 3(2)(b), which fall entirely within their territory,
+(1) OJ L 257, 10.10.1996, p. 26. Directive as last amended by Regu-      Member States shall ensure that one single flood risk
+    lation (EC) No 166/2006 of the European Parliament and of the        management plan, or a set of flood risk management plans
+    Council (OJ L 33, 4.2.2006, p. 1).                                   coordinated at the level of the river basin district, is produced.
+
+L 288/32             EN                           Official Journal of the European Union                                       6.11.2007
+
+
+2.     Where an international river basin district, or unit of          2. the development of the first flood risk management plans
+management referred to in Article 3(2)(b), falls entirely within           and their subsequent reviews as referred to in Articles 7 and
+the Community, Member States shall ensure coordination with                14 of this Directive shall be carried out in coordination with,
+the aim of producing one single international flood risk                   and may be integrated into, the reviews of the river basin
+management plan, or a set of flood risk management plans                   management plans provided for in Article 13(7) of Directive
+coordinated at the level of the international river basin                  2000/60/EC;
+district. Where such plans are not produced, Member States
+shall produce flood risk management plans covering at least
+the parts of the international river basin district falling within      3. the active involvement of all interested parties under Article
+their territory, as far as possible coordinated at the level of the        10 of this Directive shall be coordinated, as appropriate, with
+international river basin district.                                        the active involvement of interested parties under Article 14
+                                                                           of Directive 2000/60/EC.
+
+3.    Where an international river basin district, or unit of
+management referred to in Article 3(2)(b), extends beyond the                                       Article 10
+boundaries of the Community, Member States shall endeavour
+to produce one single international flood risk management plan          1.    In accordance with applicable Community legislation,
+or a set of flood risk management plans coordinated at the level        Member States shall make available to the public the preli-
+of the international river basin district; where this is not            minary flood risk assessment, the flood hazard maps, the
+possible, paragraph 2 shall apply for the parts of the interna-         flood risk maps and the flood risk management plans.
+tional river basin falling within their territory.
+
+                                                                        2.    Member States shall encourage active involvement of
+                                                                        interested parties in the production, review and updating of
+4.    The flood risk management plans referred to in para-
+                                                                        the flood risk management plans referred to in Chapter IV.
+graphs 2 and 3 shall be supplemented, where considered appro-
+priate by countries sharing a sub-basin, by more detailed flood
+risk management plans coordinated at the level of the interna-
+tional sub-basins.                                                                                CHAPTER VI
+
+                                                                               IMPLEMENTING MEASURES AND AMENDMENTS
+
+5.    Where a Member State identifies an issue which has an                                         Article 11
+impact on the management of flood risks of its water and that           1.    The Commission may, in accordance with the regulatory
+issue cannot be resolved by that Member State, it may report            procedure referred to in Article 12(2), adopt technical formats
+the issue to the Commission and any other Member State                  for the purpose of processing and transmission of data,
+concerned and may make recommendations as to how the                    including statistical and cartographic data, to the Commission.
+issue should be resolved.                                               The technical formats should be adopted at least two years
+                                                                        before the dates indicated respectively in Articles 4(4), 6(8)
+                                                                        and 7(5), taking into account existing standards as well as
+The Commission shall respond to any report or recommen-                 formats developed under relevant Community acts.
+dations from Member States within a period of six months.
+
+                                                                        2.    The Commission may, taking into account the periods for
+                                                                        review and updating, adapt the Annex to scientific and technical
+                           CHAPTER V
+                                                                        progress.
+COORDINATION WITH DIRECTIVE 2000/60/EC,                    PUBLIC
+        INFORMATION AND CONSULTATION
+
+                             Article 9                                  These measures, designed to amend non-essential elements of
+                                                                        this Directive, shall be adopted in accordance with the regu-
+Member States shall take appropriate steps to coordinate the            latory procedure with scrutiny referred to in Article 12(3).
+application of this Directive and that of Directive 2000/60/EC
+focusing on opportunities for improving efficiency, information
+exchange and for achieving common synergies and benefits                                            Article 12
+having regard to the environmental objectives laid down in
+Article 4 of Directive 2000/60/EC. In particular:                       1.    The Commission shall be assisted by the committee estab-
+                                                                        lished under Article 21 of Directive 2000/60/EC.
+
+1. the development of the first flood hazard maps and flood
+   risk maps and their subsequent reviews as referred to in             2.    Where reference is made to this paragraph, Articles 5 and
+   Articles 6 and 14 of this Directive shall be carried out in          7 of Decision 1999/468/EC shall apply, having regard to the
+   such a way that the information they contain is consistent           provisions of Article 8 thereof.
+   with relevant information presented according to Directive
+   2000/60/EC. They shall be coordinated with, and may be
+   integrated into, the reviews provided for in Article 5(2) of         The period laid down in Article 5(6) of Decision 1999/468/EC
+   Directive 2000/60/EC;                                                shall be set at three months.
+
+6.11.2007            EN                          Official Journal of the European Union                                       L 288/33
+
+
+3.   Where reference is made to this paragraph, Article 5a(1)                                     Article 15
+to (4) and Article 7 of Decision 1999/468/EC shall apply,
+having regard to the provisions of Article 8 thereof.                  1.    Member States shall make available the preliminary flood
+                                                                       risk assessment, the flood hazard maps, the flood risk maps and
+                          CHAPTER VII                                  flood risk management plans referred to in Articles 4, 6 and 7,
+                                                                       as well as their review and, where applicable, their updates to
+                  TRANSITIONAL MEASURES                                the Commission within three months after the dates indicated
+                                                                       respectively in Articles 4(4), 6(8), 7(5) and 14.
+                            Article 13
+1.    Member States may decide not to undertake the preli-             2.    Member States shall inform the Commission of the
+minary flood risk assessment referred to in Article 4 for those        decisions taken in accordance with Article 13(1), (2) and (3)
+river basins, sub-basins or coastal areas where they have either:      and make available the relevant information thereon by the
+                                                                       dates indicated respectively in Articles 4(4), 6(8) and 7(5).
+(a) already undertaken a risk assessment to conclude, before 22
+    December 2010, that a potential significant flood risk exists
+    or might be considered likely to occur leading to the iden-                                   Article 16
+    tification of the area among those referred to in Article 5(1)     The Commission shall, by 22 December 2018, and every six
+    or                                                                 years thereafter, submit to the European Parliament and to the
+                                                                       Council a report on the implementation of this Directive. The
+(b) decided, before 22 December 2010, to prepare flood hazard          impact of climate change shall be taken into account in drawing
+    maps and flood risk maps and to establish flood risk               up this report.
+    management plans in accordance with the relevant
+    provisions of this Directive.
+                                                                                                  Article 17
+2.    Member States may decide to make use of flood hazard
+                                                                       1.    Member States shall bring into force the laws, regulations
+maps and flood risk maps finalised before 22 December 2010,
+                                                                       and administrative provisions necessary to comply with this
+if such maps provide a level of information equivalent to the
+                                                                       Directive before 26 November 2009. They shall forthwith
+requirements of Article 6.
+                                                                       inform the Commission thereof.
+3.    Member States may decide to make use of flood risk
+management plans finalised before 22 December 2010,                    When they are adopted by Member States, these measures shall
+provided the content of these plans is equivalent to the               contain a reference to this Directive or shall be accompanied by
+requirements set out in Article 7.                                     such reference on the occasion of their official publication. The
+                                                                       methods of making such reference shall be laid down by
+4.    Paragraphs 1, 2 and 3 shall apply without prejudice to           Member States.
+Article 14.
+
+                          CHAPTER VIII
+                                                                       2.    Member States shall communicate to the Commission the
+                                                                       text of the main provisions of national law which they adopt in
+        REVIEWS, REPORTS AND FINAL PROVISIONS                          the field covered by this Directive.
+                            Article 14
+                                                                                                  Article 18
+1.    The preliminary flood risk assessment, or the assessment
+and decisions referred to in Article 13(1), shall be reviewed, and     This Directive shall enter into force on the 20th day following
+if necessary updated, by 22 December 2018 and every six years          its publication in the Official Journal of the European Union.
+thereafter.
+                                                                                                  Article 19
+2.    The flood hazard maps and the flood risk maps shall be
+reviewed, and if necessary updated, by 22 December 2019 and            This Directive is addressed to the Member States.
+every six years thereafter.
+
+3.    The flood risk management plan(s) shall be reviewed, and
+if necessary updated, including the components set out in part B       Done at Strasbourg, 23 October 2007.
+of the Annex, by 22 December 2021 and every six years
+thereafter.
+                                                                         For the European Parliament             For the Council
+4.    The likely impact of climate change on the occurrence of
+                                                                                 The President                    The President
+floods shall be taken into account in the reviews referred to in
+paragraphs 1 and 3.                                                           H.-G. PÖTTERING                  M. LOBO ANTUNES
+
+L 288/34           EN                               Official Journal of the European Union                                                   6.11.2007
+
+
+                                                                      ANNEX
+
+
+           A. Flood risk management plans
+
+              I. Components of the first flood risk management plans:
+
+                 1. the conclusions of the preliminary flood risk assessment as required in Chapter II in the form of a summary
+                    map of the river basin district, or the unit of management referred to in Article 3(2)(b), delineating the areas
+                    identified under Article 5(1) which are the subject of this flood risk management plan;
+
+                 2. flood hazard maps and flood risk maps as prepared under Chapter III, or already in place in accordance with
+                    Article 13, and the conclusions that can be drawn from those maps;
+
+                 3. a description of the appropriate objectives of flood risk management, established in accordance with Article 7(2);
+
+                 4. a summary of the measures and their prioritisation aiming to achieve the appropriate objectives of flood risk
+                    management, including the measures taken in accordance with Article 7, and flood related measures taken under
+                    other Community acts, including Council Directives 85/337/EEC of 27 June 1985 on the assessment of the
+                    effects of certain public and private projects on the environment (1) and 96/82/EC of 9 December 1996 on the
+                    control of major accident hazards involving dangerous substances (2), Directive 2001/42/EC of the European
+                    Parliament and of the Council of 27 June 2001 on the assessment of the effects of certain plans and
+                    programmes on the environment (3) and Directive 2000/60/EC;
+
+                 5. when available, for shared river basins or sub-basins, a description of the methodology, defined by the Member
+                    States concerned, of cost-benefit analysis used to assess measures with transnational effects.
+
+              II. Description of the implementation of the plan:
+
+                 1. a description of the prioritisation and the way in which progress in implementing the plan will be monitored;
+
+                 2. a summary of the public information and consultation measures/actions taken;
+
+                 3. a list of competent authorities and, as appropriate, a description of the coordination process within any
+                    international river basin district and of the coordination process with Directive 2000/60/EC.
+
+
+           B. Components of the subsequent update of flood risk management plans:
+
+              1. any changes or updates since the publication of the previous version of the flood risk management plan, including
+                 a summary of the reviews carried out in compliance with Article 14;
+
+              2. an assessment of the progress made towards the achievement of the objectives referred to in Article 7(2);
+
+              3. a description of, and an explanation for, any measures foreseen in the earlier version of the flood risk management
+                 plan which were planned to be undertaken and have not been taken forward;
+
+              4. a description of any additional measures since the publication of the previous version of the flood risk management
+                 plan.
+
+
+
+
+           (1) OJ L 175, 5.7.1985, p. 40. Directive as last amended by Directive 2003/35/EC of the European Parliament and of the Council
+               (OJ L 156, 25.6.2003, p. 17).
+           (2) OJ L 10, 14.1.1997, p. 13. Directive as last amended by Directive 2003/105/EC of the European Parliament and of the Council
+               (OJ L 345, 31.12.2003, p. 97).
+           (3) OJ L 197, 21.7.2001, p. 30.
+
