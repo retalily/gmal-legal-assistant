@@ -2,7 +2,7 @@ streamlit
 langchain
 langchain-community
 langchain-openai
-chromadb
+faiss-cpu
 huggingface-hub
 sentence-transformers
 tiktoken
